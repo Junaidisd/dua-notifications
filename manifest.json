@@ -1,0 +1,17 @@
+{
+  "name": "Dua Notifications",
+  "short_name": "Duas",
+  "description": "Schedule duas to appear at the times you need them",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1d4ed8",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/assets/dua-icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
